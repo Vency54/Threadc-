@@ -1,0 +1,102 @@
+Extrato Bancário
+================================================================
+Acesso 1° :
+Data: 24/04/2026
+Usuário depositou R$ 175 em sua conta bancária
+Saldo Atual: 1675
+================================================================
+Acesso 2° :
+Data: 25/04/2026
+Usuário sacou R$ 900 de sua conta bancária
+Saldo Atual: 775
+================================================================
+Acesso 3° :
+Data: 26/04/2026
+Usuário depositou R$ 523 em sua conta bancária
+Saldo Atual: 1298
+================================================================
+Acesso 4° :
+Data: 27/04/2026
+Usuário sacou R$ 513 de sua conta bancária
+Saldo Atual: 785
+================================================================
+Acesso 5° :
+Data: 28/04/2026
+Usuário depositou R$ 211 em sua conta bancária
+Saldo Atual: 996
+================================================================
+Acesso 6° :
+Data: 29/04/2026
+Usuário sacou R$ 541 de sua conta bancária
+Saldo Atual: 455
+================================================================
+Acesso 7° :
+Data: 30/04/2026
+Usuário depositou R$ 958 em sua conta bancária
+Saldo Atual: 1413
+================================================================
+Acesso 8° :
+Data: 01/05/2026
+Usuário sacou R$ 512 de sua conta bancária
+Saldo Atual: 901
+================================================================
+Acesso 9° :
+Data: 02/05/2026
+Usuário depositou R$ 411 em sua conta bancária
+Saldo Atual: 1312
+================================================================
+Acesso 10° :
+Data: 03/05/2026
+Usuário sacou R$ 122 de sua conta bancária
+Saldo Atual: 1190
+================================================================
+Acesso 11° :
+Data: 04/05/2026
+Usuário depositou R$ 279 em sua conta bancária
+Saldo Atual: 1469
+================================================================
+Acesso 12° :
+Data: 05/05/2026
+Usuário sacou R$ 351 de sua conta bancária
+Saldo Atual: 1118
+================================================================
+Acesso 13° :
+Data: 06/05/2026
+Usuário depositou R$ 393 em sua conta bancária
+Saldo Atual: 1511
+================================================================
+Acesso 14° :
+Data: 07/05/2026
+Usuário sacou R$ 725 de sua conta bancária
+Saldo Atual: 786
+================================================================
+Acesso 15° :
+Data: 08/05/2026
+Usuário depositou R$ 595 em sua conta bancária
+Saldo Atual: 1381
+================================================================
+Acesso 16° :
+Data: 09/05/2026
+Usuário sacou R$ 830 de sua conta bancária
+Saldo Atual: 551
+================================================================
+Acesso 17° :
+Data: 10/05/2026
+Usuário depositou R$ 170 em sua conta bancária
+Saldo Atual: 721
+================================================================
+Acesso 18° :
+Data: 11/05/2026
+Usuário depositou R$ 560 em sua conta bancária
+Saldo Atual: 1281
+================================================================
+Acesso 19° :
+Data: 12/05/2026
+Usuário sacou R$ 157 de sua conta bancária
+Saldo Atual: 1124
+================================================================
+Acesso 20° :
+Data: 13/05/2026
+Usuário sacou R$ 137 de sua conta bancária
+Saldo Atual: 987
+================================================================
