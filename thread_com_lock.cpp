@@ -14,8 +14,9 @@ using namespace std::chrono;
 
 mutex BancoMutex;
 
+int qtde_interacoes = 10;
 int qtde_threads = 20;
-float saldo = 1500.00;
+float saldo = 5000.00;
 
 using chrono::system_clock;
 duration<int, ratio<60 * 60 * 24>> um_dia(1);
@@ -30,50 +31,51 @@ void Banco(int i)
 
     {
         unique_lock<mutex> BancoLock(BancoMutex);
+        
+        for (int j = 0; j < qtde_interacoes; j++) {
+            random_device rd;
+            mt19937 gen(rd());
 
-        random_device rd;
-        mt19937 gen(rd());
+            uniform_int_distribution<int> dist(10000, 100000);
 
-        uniform_int_distribution<> dist(100, 1000);
+            float acao = dist(gen) / 100.0f;
 
-        float acao;
+            time_t tt;
 
-        acao = dist(gen);
+            tt = system_clock::to_time_t(hoje);
 
-        time_t tt;
+            tm data_local;
+            localtime_s(&data_local, &tt);
 
-        tt = system_clock::to_time_t(hoje);
-
-        tm *data_local = localtime(&tt);
-
-        fstream MyFile;
-        MyFile.open("Banco.txt", ios::app);
-        if (MyFile.is_open())
-        {
-            MyFile << "Acesso " << contador_exibicao << "° :" << endl;
-
-            MyFile << "Data: " << put_time(data_local, "%d/%m/%Y") << endl;
-
-            if (i % 2 == 0)
+            fstream MyFile;
+            MyFile.open("Banco.txt", ios::app);
+            if (MyFile.is_open())
             {
-                MyFile << "Usuário depositou R$ " << acao << " em sua conta bancária" << endl;
-                saldo = saldo + acao;
-            }
-            else
-            {
-                MyFile << "Usuário sacou R$ " << acao << " de sua conta bancária" << endl;
-                saldo = saldo - acao;
+                MyFile << "Acesso " << contador_exibicao << "° :" << endl;
+
+                MyFile << "Data: " << put_time(&data_local, "%d/%m/%Y") << endl;
+
+                if (i % 2 == 0)
+                {
+                    MyFile << "Usuário depositou R$ " << acao << " em sua conta bancária" << endl;
+                    saldo = saldo + acao;
+                }
+                else
+                {
+                    MyFile << "Usuário sacou R$ " << acao << " de sua conta bancária" << endl;
+                    saldo = saldo - acao;
+                }
+
+                MyFile << "Saldo Atual: " << saldo << endl;
+                MyFile << "================================================================" << endl;
+
+                MyFile.close();
             }
 
-            MyFile << "Saldo Atual: " << saldo << endl;
-            MyFile << "================================================================" << endl;
+            hoje = hoje + um_dia;
 
-            MyFile.close();
+            contador_exibicao++;
         }
-
-        hoje = hoje + um_dia;
-
-        contador_exibicao++;
 
         BancoLock.unlock();
     }
@@ -102,7 +104,7 @@ int main()
         pool.emplace_back(Banco, i);
     }
 
-    for (auto &t : pool)
+    for (auto& t : pool)
     {
         t.join();
     }
