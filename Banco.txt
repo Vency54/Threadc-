@@ -1,0 +1,1002 @@
+Extrato Bancário
+================================================================
+Acesso 1° :
+Data: 24/04/2026
+Usuário depositou R$ 242 em sua conta bancária
+Saldo Atual: R$ 10242
+================================================================
+Acesso 2° :
+Data: 25/04/2026
+Usuário sacou R$ 805 de sua conta bancária
+Saldo Atual: R$ 9437
+================================================================
+Acesso 3° :
+Data: 26/04/2026
+Usuário depositou R$ 387 em sua conta bancária
+Saldo Atual: R$ 9824
+================================================================
+Acesso 4° :
+Data: 27/04/2026
+Usuário sacou R$ 827 de sua conta bancária
+Saldo Atual: R$ 8997
+================================================================
+Acesso 5° :
+Data: 28/04/2026
+Usuário depositou R$ 497 em sua conta bancária
+Saldo Atual: R$ 9494
+================================================================
+Acesso 6° :
+Data: 29/04/2026
+Usuário sacou R$ 140 de sua conta bancária
+Saldo Atual: R$ 9354
+================================================================
+Acesso 7° :
+Data: 30/04/2026
+Usuário depositou R$ 377 em sua conta bancária
+Saldo Atual: R$ 9731
+================================================================
+Acesso 8° :
+Data: 01/05/2026
+Usuário sacou R$ 558 de sua conta bancária
+Saldo Atual: R$ 9173
+================================================================
+Acesso 9° :
+Data: 02/05/2026
+Usuário depositou R$ 438 em sua conta bancária
+Saldo Atual: R$ 9611
+================================================================
+Acesso 10° :
+Data: 03/05/2026
+Usuário sacou R$ 473 de sua conta bancária
+Saldo Atual: R$ 9138
+================================================================
+Acesso 11° :
+Data: 04/05/2026
+Usuário depositou R$ 631 em sua conta bancária
+Saldo Atual: R$ 9769
+================================================================
+Acesso 12° :
+Data: 05/05/2026
+Usuário sacou R$ 458 de sua conta bancária
+Saldo Atual: R$ 9311
+================================================================
+Acesso 13° :
+Data: 06/05/2026
+Usuário depositou R$ 113 em sua conta bancária
+Saldo Atual: R$ 9424
+================================================================
+Acesso 14° :
+Data: 07/05/2026
+Usuário sacou R$ 477 de sua conta bancária
+Saldo Atual: R$ 8947
+================================================================
+Acesso 15° :
+Data: 08/05/2026
+Usuário depositou R$ 590 em sua conta bancária
+Saldo Atual: R$ 9537
+================================================================
+Acesso 16° :
+Data: 09/05/2026
+Usuário sacou R$ 948 de sua conta bancária
+Saldo Atual: R$ 8589
+================================================================
+Acesso 17° :
+Data: 10/05/2026
+Usuário depositou R$ 328 em sua conta bancária
+Saldo Atual: R$ 8917
+================================================================
+Acesso 18° :
+Data: 11/05/2026
+Usuário sacou R$ 841 de sua conta bancária
+Saldo Atual: R$ 8076
+================================================================
+Acesso 19° :
+Data: 12/05/2026
+Usuário depositou R$ 910 em sua conta bancária
+Saldo Atual: R$ 8986
+================================================================
+Acesso 20° :
+Data: 13/05/2026
+Usuário sacou R$ 717 de sua conta bancária
+Saldo Atual: R$ 8269
+================================================================
+Acesso 21° :
+Data: 14/05/2026
+Usuário depositou R$ 924 em sua conta bancária
+Saldo Atual: R$ 9193
+================================================================
+Acesso 22° :
+Data: 15/05/2026
+Usuário sacou R$ 377 de sua conta bancária
+Saldo Atual: R$ 8816
+================================================================
+Acesso 23° :
+Data: 16/05/2026
+Usuário depositou R$ 931 em sua conta bancária
+Saldo Atual: R$ 9747
+================================================================
+Acesso 24° :
+Data: 17/05/2026
+Usuário sacou R$ 884 de sua conta bancária
+Saldo Atual: R$ 8863
+================================================================
+Acesso 25° :
+Data: 18/05/2026
+Usuário depositou R$ 712 em sua conta bancária
+Saldo Atual: R$ 9575
+================================================================
+Acesso 26° :
+Data: 19/05/2026
+Usuário sacou R$ 587 de sua conta bancária
+Saldo Atual: R$ 8988
+================================================================
+Acesso 27° :
+Data: 20/05/2026
+Usuário depositou R$ 902 em sua conta bancária
+Saldo Atual: R$ 9890
+================================================================
+Acesso 28° :
+Data: 21/05/2026
+Usuário sacou R$ 673 de sua conta bancária
+Saldo Atual: R$ 9217
+================================================================
+Acesso 29° :
+Data: 22/05/2026
+Usuário depositou R$ 314 em sua conta bancária
+Saldo Atual: R$ 9531
+================================================================
+Acesso 30° :
+Data: 23/05/2026
+Usuário sacou R$ 909 de sua conta bancária
+Saldo Atual: R$ 8622
+================================================================
+Acesso 31° :
+Data: 24/05/2026
+Usuário depositou R$ 772 em sua conta bancária
+Saldo Atual: R$ 9394
+================================================================
+Acesso 32° :
+Data: 25/05/2026
+Usuário sacou R$ 919 de sua conta bancária
+Saldo Atual: R$ 8475
+================================================================
+Acesso 33° :
+Data: 26/05/2026
+Usuário depositou R$ 838 em sua conta bancária
+Saldo Atual: R$ 9313
+================================================================
+Acesso 34° :
+Data: 27/05/2026
+Usuário sacou R$ 606 de sua conta bancária
+Saldo Atual: R$ 8707
+================================================================
+Acesso 35° :
+Data: 28/05/2026
+Usuário depositou R$ 366 em sua conta bancária
+Saldo Atual: R$ 9073
+================================================================
+Acesso 36° :
+Data: 29/05/2026
+Usuário sacou R$ 949 de sua conta bancária
+Saldo Atual: R$ 8124
+================================================================
+Acesso 37° :
+Data: 30/05/2026
+Usuário depositou R$ 340 em sua conta bancária
+Saldo Atual: R$ 8464
+================================================================
+Acesso 38° :
+Data: 31/05/2026
+Usuário sacou R$ 968 de sua conta bancária
+Saldo Atual: R$ 7496
+================================================================
+Acesso 39° :
+Data: 01/06/2026
+Usuário depositou R$ 435 em sua conta bancária
+Saldo Atual: R$ 7931
+================================================================
+Acesso 40° :
+Data: 02/06/2026
+Usuário sacou R$ 994 de sua conta bancária
+Saldo Atual: R$ 6937
+================================================================
+Acesso 41° :
+Data: 03/06/2026
+Usuário depositou R$ 759 em sua conta bancária
+Saldo Atual: R$ 7696
+================================================================
+Acesso 42° :
+Data: 04/06/2026
+Usuário sacou R$ 710 de sua conta bancária
+Saldo Atual: R$ 6986
+================================================================
+Acesso 43° :
+Data: 05/06/2026
+Usuário depositou R$ 321 em sua conta bancária
+Saldo Atual: R$ 7307
+================================================================
+Acesso 44° :
+Data: 06/06/2026
+Usuário sacou R$ 846 de sua conta bancária
+Saldo Atual: R$ 6461
+================================================================
+Acesso 45° :
+Data: 07/06/2026
+Usuário depositou R$ 228 em sua conta bancária
+Saldo Atual: R$ 6689
+================================================================
+Acesso 46° :
+Data: 08/06/2026
+Usuário sacou R$ 652 de sua conta bancária
+Saldo Atual: R$ 6037
+================================================================
+Acesso 47° :
+Data: 09/06/2026
+Usuário depositou R$ 114 em sua conta bancária
+Saldo Atual: R$ 6151
+================================================================
+Acesso 48° :
+Data: 10/06/2026
+Usuário sacou R$ 297 de sua conta bancária
+Saldo Atual: R$ 5854
+================================================================
+Acesso 49° :
+Data: 11/06/2026
+Usuário depositou R$ 567 em sua conta bancária
+Saldo Atual: R$ 6421
+================================================================
+Acesso 50° :
+Data: 12/06/2026
+Usuário sacou R$ 791 de sua conta bancária
+Saldo Atual: R$ 5630
+================================================================
+Acesso 51° :
+Data: 13/06/2026
+Usuário depositou R$ 861 em sua conta bancária
+Saldo Atual: R$ 6491
+================================================================
+Acesso 52° :
+Data: 14/06/2026
+Usuário sacou R$ 350 de sua conta bancária
+Saldo Atual: R$ 6141
+================================================================
+Acesso 53° :
+Data: 15/06/2026
+Usuário depositou R$ 376 em sua conta bancária
+Saldo Atual: R$ 6517
+================================================================
+Acesso 54° :
+Data: 16/06/2026
+Usuário sacou R$ 145 de sua conta bancária
+Saldo Atual: R$ 6372
+================================================================
+Acesso 55° :
+Data: 17/06/2026
+Usuário depositou R$ 725 em sua conta bancária
+Saldo Atual: R$ 7097
+================================================================
+Acesso 56° :
+Data: 18/06/2026
+Usuário sacou R$ 338 de sua conta bancária
+Saldo Atual: R$ 6759
+================================================================
+Acesso 57° :
+Data: 19/06/2026
+Usuário depositou R$ 352 em sua conta bancária
+Saldo Atual: R$ 7111
+================================================================
+Acesso 58° :
+Data: 20/06/2026
+Usuário sacou R$ 232 de sua conta bancária
+Saldo Atual: R$ 6879
+================================================================
+Acesso 59° :
+Data: 21/06/2026
+Usuário depositou R$ 634 em sua conta bancária
+Saldo Atual: R$ 7513
+================================================================
+Acesso 60° :
+Data: 22/06/2026
+Usuário sacou R$ 218 de sua conta bancária
+Saldo Atual: R$ 7295
+================================================================
+Acesso 61° :
+Data: 23/06/2026
+Usuário depositou R$ 414 em sua conta bancária
+Saldo Atual: R$ 7709
+================================================================
+Acesso 62° :
+Data: 24/06/2026
+Usuário sacou R$ 295 de sua conta bancária
+Saldo Atual: R$ 7414
+================================================================
+Acesso 63° :
+Data: 25/06/2026
+Usuário depositou R$ 204 em sua conta bancária
+Saldo Atual: R$ 7618
+================================================================
+Acesso 64° :
+Data: 26/06/2026
+Usuário sacou R$ 332 de sua conta bancária
+Saldo Atual: R$ 7286
+================================================================
+Acesso 65° :
+Data: 27/06/2026
+Usuário depositou R$ 362 em sua conta bancária
+Saldo Atual: R$ 7648
+================================================================
+Acesso 66° :
+Data: 28/06/2026
+Usuário sacou R$ 226 de sua conta bancária
+Saldo Atual: R$ 7422
+================================================================
+Acesso 67° :
+Data: 29/06/2026
+Usuário depositou R$ 583 em sua conta bancária
+Saldo Atual: R$ 8005
+================================================================
+Acesso 68° :
+Data: 30/06/2026
+Usuário sacou R$ 589 de sua conta bancária
+Saldo Atual: R$ 7416
+================================================================
+Acesso 69° :
+Data: 01/07/2026
+Usuário depositou R$ 540 em sua conta bancária
+Saldo Atual: R$ 7956
+================================================================
+Acesso 70° :
+Data: 02/07/2026
+Usuário sacou R$ 630 de sua conta bancária
+Saldo Atual: R$ 7326
+================================================================
+Acesso 71° :
+Data: 03/07/2026
+Usuário depositou R$ 355 em sua conta bancária
+Saldo Atual: R$ 7681
+================================================================
+Acesso 72° :
+Data: 04/07/2026
+Usuário sacou R$ 303 de sua conta bancária
+Saldo Atual: R$ 7378
+================================================================
+Acesso 73° :
+Data: 05/07/2026
+Usuário depositou R$ 539 em sua conta bancária
+Saldo Atual: R$ 7917
+================================================================
+Acesso 74° :
+Data: 06/07/2026
+Usuário sacou R$ 441 de sua conta bancária
+Saldo Atual: R$ 7476
+================================================================
+Acesso 75° :
+Data: 07/07/2026
+Usuário depositou R$ 974 em sua conta bancária
+Saldo Atual: R$ 8450
+================================================================
+Acesso 76° :
+Data: 08/07/2026
+Usuário sacou R$ 794 de sua conta bancária
+Saldo Atual: R$ 7656
+================================================================
+Acesso 77° :
+Data: 09/07/2026
+Usuário depositou R$ 169 em sua conta bancária
+Saldo Atual: R$ 7825
+================================================================
+Acesso 78° :
+Data: 10/07/2026
+Usuário sacou R$ 591 de sua conta bancária
+Saldo Atual: R$ 7234
+================================================================
+Acesso 79° :
+Data: 11/07/2026
+Usuário depositou R$ 710 em sua conta bancária
+Saldo Atual: R$ 7944
+================================================================
+Acesso 80° :
+Data: 12/07/2026
+Usuário sacou R$ 575 de sua conta bancária
+Saldo Atual: R$ 7369
+================================================================
+Acesso 81° :
+Data: 13/07/2026
+Usuário depositou R$ 520 em sua conta bancária
+Saldo Atual: R$ 7889
+================================================================
+Acesso 82° :
+Data: 14/07/2026
+Usuário sacou R$ 642 de sua conta bancária
+Saldo Atual: R$ 7247
+================================================================
+Acesso 83° :
+Data: 15/07/2026
+Usuário depositou R$ 562 em sua conta bancária
+Saldo Atual: R$ 7809
+================================================================
+Acesso 84° :
+Data: 16/07/2026
+Usuário sacou R$ 627 de sua conta bancária
+Saldo Atual: R$ 7182
+================================================================
+Acesso 85° :
+Data: 17/07/2026
+Usuário depositou R$ 457 em sua conta bancária
+Saldo Atual: R$ 7639
+================================================================
+Acesso 86° :
+Data: 18/07/2026
+Usuário sacou R$ 575 de sua conta bancária
+Saldo Atual: R$ 7064
+================================================================
+Acesso 87° :
+Data: 19/07/2026
+Usuário depositou R$ 139 em sua conta bancária
+Saldo Atual: R$ 7203
+================================================================
+Acesso 88° :
+Data: 20/07/2026
+Usuário sacou R$ 291 de sua conta bancária
+Saldo Atual: R$ 6912
+================================================================
+Acesso 89° :
+Data: 21/07/2026
+Usuário depositou R$ 735 em sua conta bancária
+Saldo Atual: R$ 7647
+================================================================
+Acesso 90° :
+Data: 22/07/2026
+Usuário sacou R$ 306 de sua conta bancária
+Saldo Atual: R$ 7341
+================================================================
+Acesso 91° :
+Data: 23/07/2026
+Usuário depositou R$ 479 em sua conta bancária
+Saldo Atual: R$ 7820
+================================================================
+Acesso 92° :
+Data: 24/07/2026
+Usuário sacou R$ 611 de sua conta bancária
+Saldo Atual: R$ 7209
+================================================================
+Acesso 93° :
+Data: 25/07/2026
+Usuário depositou R$ 854 em sua conta bancária
+Saldo Atual: R$ 8063
+================================================================
+Acesso 94° :
+Data: 26/07/2026
+Usuário sacou R$ 515 de sua conta bancária
+Saldo Atual: R$ 7548
+================================================================
+Acesso 95° :
+Data: 27/07/2026
+Usuário depositou R$ 247 em sua conta bancária
+Saldo Atual: R$ 7795
+================================================================
+Acesso 96° :
+Data: 28/07/2026
+Usuário sacou R$ 138 de sua conta bancária
+Saldo Atual: R$ 7657
+================================================================
+Acesso 97° :
+Data: 29/07/2026
+Usuário depositou R$ 603 em sua conta bancária
+Saldo Atual: R$ 8260
+================================================================
+Acesso 98° :
+Data: 30/07/2026
+Usuário sacou R$ 823 de sua conta bancária
+Saldo Atual: R$ 7437
+================================================================
+Acesso 99° :
+Data: 31/07/2026
+Usuário depositou R$ 161 em sua conta bancária
+Saldo Atual: R$ 7598
+================================================================
+Acesso 100° :
+Data: 01/08/2026
+Usuário sacou R$ 589 de sua conta bancária
+Saldo Atual: R$ 7009
+================================================================
+Acesso 101° :
+Data: 02/08/2026
+Usuário depositou R$ 838 em sua conta bancária
+Saldo Atual: R$ 7847
+================================================================
+Acesso 102° :
+Data: 03/08/2026
+Usuário sacou R$ 712 de sua conta bancária
+Saldo Atual: R$ 7135
+================================================================
+Acesso 103° :
+Data: 04/08/2026
+Usuário depositou R$ 131 em sua conta bancária
+Saldo Atual: R$ 7266
+================================================================
+Acesso 104° :
+Data: 05/08/2026
+Usuário sacou R$ 131 de sua conta bancária
+Saldo Atual: R$ 7135
+================================================================
+Acesso 105° :
+Data: 06/08/2026
+Usuário depositou R$ 118 em sua conta bancária
+Saldo Atual: R$ 7253
+================================================================
+Acesso 106° :
+Data: 07/08/2026
+Usuário sacou R$ 595 de sua conta bancária
+Saldo Atual: R$ 6658
+================================================================
+Acesso 107° :
+Data: 08/08/2026
+Usuário depositou R$ 903 em sua conta bancária
+Saldo Atual: R$ 7561
+================================================================
+Acesso 108° :
+Data: 09/08/2026
+Usuário sacou R$ 388 de sua conta bancária
+Saldo Atual: R$ 7173
+================================================================
+Acesso 109° :
+Data: 10/08/2026
+Usuário depositou R$ 229 em sua conta bancária
+Saldo Atual: R$ 7402
+================================================================
+Acesso 110° :
+Data: 11/08/2026
+Usuário sacou R$ 409 de sua conta bancária
+Saldo Atual: R$ 6993
+================================================================
+Acesso 111° :
+Data: 12/08/2026
+Usuário depositou R$ 811 em sua conta bancária
+Saldo Atual: R$ 7804
+================================================================
+Acesso 112° :
+Data: 13/08/2026
+Usuário sacou R$ 325 de sua conta bancária
+Saldo Atual: R$ 7479
+================================================================
+Acesso 113° :
+Data: 14/08/2026
+Usuário depositou R$ 626 em sua conta bancária
+Saldo Atual: R$ 8105
+================================================================
+Acesso 114° :
+Data: 15/08/2026
+Usuário sacou R$ 513 de sua conta bancária
+Saldo Atual: R$ 7592
+================================================================
+Acesso 115° :
+Data: 16/08/2026
+Usuário depositou R$ 574 em sua conta bancária
+Saldo Atual: R$ 8166
+================================================================
+Acesso 116° :
+Data: 17/08/2026
+Usuário sacou R$ 937 de sua conta bancária
+Saldo Atual: R$ 7229
+================================================================
+Acesso 117° :
+Data: 18/08/2026
+Usuário depositou R$ 574 em sua conta bancária
+Saldo Atual: R$ 7803
+================================================================
+Acesso 118° :
+Data: 19/08/2026
+Usuário sacou R$ 708 de sua conta bancária
+Saldo Atual: R$ 7095
+================================================================
+Acesso 119° :
+Data: 20/08/2026
+Usuário depositou R$ 839 em sua conta bancária
+Saldo Atual: R$ 7934
+================================================================
+Acesso 120° :
+Data: 21/08/2026
+Usuário sacou R$ 924 de sua conta bancária
+Saldo Atual: R$ 7010
+================================================================
+Acesso 121° :
+Data: 22/08/2026
+Usuário depositou R$ 204 em sua conta bancária
+Saldo Atual: R$ 7214
+================================================================
+Acesso 122° :
+Data: 23/08/2026
+Usuário sacou R$ 105 de sua conta bancária
+Saldo Atual: R$ 7109
+================================================================
+Acesso 123° :
+Data: 24/08/2026
+Usuário depositou R$ 461 em sua conta bancária
+Saldo Atual: R$ 7570
+================================================================
+Acesso 124° :
+Data: 25/08/2026
+Usuário sacou R$ 718 de sua conta bancária
+Saldo Atual: R$ 6852
+================================================================
+Acesso 125° :
+Data: 26/08/2026
+Usuário depositou R$ 227 em sua conta bancária
+Saldo Atual: R$ 7079
+================================================================
+Acesso 126° :
+Data: 27/08/2026
+Usuário sacou R$ 527 de sua conta bancária
+Saldo Atual: R$ 6552
+================================================================
+Acesso 127° :
+Data: 28/08/2026
+Usuário depositou R$ 196 em sua conta bancária
+Saldo Atual: R$ 6748
+================================================================
+Acesso 128° :
+Data: 29/08/2026
+Usuário sacou R$ 314 de sua conta bancária
+Saldo Atual: R$ 6434
+================================================================
+Acesso 129° :
+Data: 30/08/2026
+Usuário depositou R$ 126 em sua conta bancária
+Saldo Atual: R$ 6560
+================================================================
+Acesso 130° :
+Data: 31/08/2026
+Usuário sacou R$ 160 de sua conta bancária
+Saldo Atual: R$ 6400
+================================================================
+Acesso 131° :
+Data: 01/09/2026
+Usuário depositou R$ 530 em sua conta bancária
+Saldo Atual: R$ 6930
+================================================================
+Acesso 132° :
+Data: 02/09/2026
+Usuário sacou R$ 291 de sua conta bancária
+Saldo Atual: R$ 6639
+================================================================
+Acesso 133° :
+Data: 03/09/2026
+Usuário depositou R$ 490 em sua conta bancária
+Saldo Atual: R$ 7129
+================================================================
+Acesso 134° :
+Data: 04/09/2026
+Usuário sacou R$ 441 de sua conta bancária
+Saldo Atual: R$ 6688
+================================================================
+Acesso 135° :
+Data: 05/09/2026
+Usuário depositou R$ 747 em sua conta bancária
+Saldo Atual: R$ 7435
+================================================================
+Acesso 136° :
+Data: 06/09/2026
+Usuário sacou R$ 438 de sua conta bancária
+Saldo Atual: R$ 6997
+================================================================
+Acesso 137° :
+Data: 07/09/2026
+Usuário depositou R$ 651 em sua conta bancária
+Saldo Atual: R$ 7648
+================================================================
+Acesso 138° :
+Data: 08/09/2026
+Usuário sacou R$ 491 de sua conta bancária
+Saldo Atual: R$ 7157
+================================================================
+Acesso 139° :
+Data: 09/09/2026
+Usuário depositou R$ 632 em sua conta bancária
+Saldo Atual: R$ 7789
+================================================================
+Acesso 140° :
+Data: 10/09/2026
+Usuário sacou R$ 830 de sua conta bancária
+Saldo Atual: R$ 6959
+================================================================
+Acesso 141° :
+Data: 11/09/2026
+Usuário depositou R$ 310 em sua conta bancária
+Saldo Atual: R$ 7269
+================================================================
+Acesso 142° :
+Data: 12/09/2026
+Usuário sacou R$ 140 de sua conta bancária
+Saldo Atual: R$ 7129
+================================================================
+Acesso 143° :
+Data: 13/09/2026
+Usuário depositou R$ 675 em sua conta bancária
+Saldo Atual: R$ 7804
+================================================================
+Acesso 144° :
+Data: 14/09/2026
+Usuário sacou R$ 666 de sua conta bancária
+Saldo Atual: R$ 7138
+================================================================
+Acesso 145° :
+Data: 15/09/2026
+Usuário depositou R$ 742 em sua conta bancária
+Saldo Atual: R$ 7880
+================================================================
+Acesso 146° :
+Data: 16/09/2026
+Usuário sacou R$ 369 de sua conta bancária
+Saldo Atual: R$ 7511
+================================================================
+Acesso 147° :
+Data: 17/09/2026
+Usuário depositou R$ 853 em sua conta bancária
+Saldo Atual: R$ 8364
+================================================================
+Acesso 148° :
+Data: 18/09/2026
+Usuário sacou R$ 711 de sua conta bancária
+Saldo Atual: R$ 7653
+================================================================
+Acesso 149° :
+Data: 19/09/2026
+Usuário depositou R$ 376 em sua conta bancária
+Saldo Atual: R$ 8029
+================================================================
+Acesso 150° :
+Data: 20/09/2026
+Usuário sacou R$ 184 de sua conta bancária
+Saldo Atual: R$ 7845
+================================================================
+Acesso 151° :
+Data: 21/09/2026
+Usuário depositou R$ 737 em sua conta bancária
+Saldo Atual: R$ 8582
+================================================================
+Acesso 152° :
+Data: 22/09/2026
+Usuário sacou R$ 111 de sua conta bancária
+Saldo Atual: R$ 8471
+================================================================
+Acesso 153° :
+Data: 23/09/2026
+Usuário depositou R$ 124 em sua conta bancária
+Saldo Atual: R$ 8595
+================================================================
+Acesso 154° :
+Data: 24/09/2026
+Usuário sacou R$ 449 de sua conta bancária
+Saldo Atual: R$ 8146
+================================================================
+Acesso 155° :
+Data: 25/09/2026
+Usuário depositou R$ 303 em sua conta bancária
+Saldo Atual: R$ 8449
+================================================================
+Acesso 156° :
+Data: 26/09/2026
+Usuário sacou R$ 118 de sua conta bancária
+Saldo Atual: R$ 8331
+================================================================
+Acesso 157° :
+Data: 27/09/2026
+Usuário depositou R$ 676 em sua conta bancária
+Saldo Atual: R$ 9007
+================================================================
+Acesso 158° :
+Data: 28/09/2026
+Usuário sacou R$ 697 de sua conta bancária
+Saldo Atual: R$ 8310
+================================================================
+Acesso 159° :
+Data: 29/09/2026
+Usuário depositou R$ 223 em sua conta bancária
+Saldo Atual: R$ 8533
+================================================================
+Acesso 160° :
+Data: 30/09/2026
+Usuário sacou R$ 306 de sua conta bancária
+Saldo Atual: R$ 8227
+================================================================
+Acesso 161° :
+Data: 01/10/2026
+Usuário depositou R$ 945 em sua conta bancária
+Saldo Atual: R$ 9172
+================================================================
+Acesso 162° :
+Data: 02/10/2026
+Usuário sacou R$ 754 de sua conta bancária
+Saldo Atual: R$ 8418
+================================================================
+Acesso 163° :
+Data: 03/10/2026
+Usuário depositou R$ 190 em sua conta bancária
+Saldo Atual: R$ 8608
+================================================================
+Acesso 164° :
+Data: 04/10/2026
+Usuário sacou R$ 570 de sua conta bancária
+Saldo Atual: R$ 8038
+================================================================
+Acesso 165° :
+Data: 05/10/2026
+Usuário depositou R$ 166 em sua conta bancária
+Saldo Atual: R$ 8204
+================================================================
+Acesso 166° :
+Data: 06/10/2026
+Usuário sacou R$ 795 de sua conta bancária
+Saldo Atual: R$ 7409
+================================================================
+Acesso 167° :
+Data: 07/10/2026
+Usuário depositou R$ 459 em sua conta bancária
+Saldo Atual: R$ 7868
+================================================================
+Acesso 168° :
+Data: 08/10/2026
+Usuário sacou R$ 427 de sua conta bancária
+Saldo Atual: R$ 7441
+================================================================
+Acesso 169° :
+Data: 09/10/2026
+Usuário depositou R$ 105 em sua conta bancária
+Saldo Atual: R$ 7546
+================================================================
+Acesso 170° :
+Data: 10/10/2026
+Usuário sacou R$ 585 de sua conta bancária
+Saldo Atual: R$ 6961
+================================================================
+Acesso 171° :
+Data: 11/10/2026
+Usuário depositou R$ 237 em sua conta bancária
+Saldo Atual: R$ 7198
+================================================================
+Acesso 172° :
+Data: 12/10/2026
+Usuário sacou R$ 440 de sua conta bancária
+Saldo Atual: R$ 6758
+================================================================
+Acesso 173° :
+Data: 13/10/2026
+Usuário depositou R$ 836 em sua conta bancária
+Saldo Atual: R$ 7594
+================================================================
+Acesso 174° :
+Data: 14/10/2026
+Usuário sacou R$ 919 de sua conta bancária
+Saldo Atual: R$ 6675
+================================================================
+Acesso 175° :
+Data: 15/10/2026
+Usuário depositou R$ 916 em sua conta bancária
+Saldo Atual: R$ 7591
+================================================================
+Acesso 176° :
+Data: 16/10/2026
+Usuário sacou R$ 974 de sua conta bancária
+Saldo Atual: R$ 6617
+================================================================
+Acesso 177° :
+Data: 17/10/2026
+Usuário depositou R$ 968 em sua conta bancária
+Saldo Atual: R$ 7585
+================================================================
+Acesso 178° :
+Data: 18/10/2026
+Usuário sacou R$ 422 de sua conta bancária
+Saldo Atual: R$ 7163
+================================================================
+Acesso 179° :
+Data: 19/10/2026
+Usuário depositou R$ 982 em sua conta bancária
+Saldo Atual: R$ 8145
+================================================================
+Acesso 180° :
+Data: 20/10/2026
+Usuário sacou R$ 306 de sua conta bancária
+Saldo Atual: R$ 7839
+================================================================
+Acesso 181° :
+Data: 21/10/2026
+Usuário depositou R$ 723 em sua conta bancária
+Saldo Atual: R$ 8562
+================================================================
+Acesso 182° :
+Data: 22/10/2026
+Usuário sacou R$ 687 de sua conta bancária
+Saldo Atual: R$ 7875
+================================================================
+Acesso 183° :
+Data: 23/10/2026
+Usuário depositou R$ 761 em sua conta bancária
+Saldo Atual: R$ 8636
+================================================================
+Acesso 184° :
+Data: 24/10/2026
+Usuário sacou R$ 243 de sua conta bancária
+Saldo Atual: R$ 8393
+================================================================
+Acesso 185° :
+Data: 25/10/2026
+Usuário depositou R$ 631 em sua conta bancária
+Saldo Atual: R$ 9024
+================================================================
+Acesso 186° :
+Data: 26/10/2026
+Usuário sacou R$ 885 de sua conta bancária
+Saldo Atual: R$ 8139
+================================================================
+Acesso 187° :
+Data: 27/10/2026
+Usuário depositou R$ 110 em sua conta bancária
+Saldo Atual: R$ 8249
+================================================================
+Acesso 188° :
+Data: 28/10/2026
+Usuário sacou R$ 913 de sua conta bancária
+Saldo Atual: R$ 7336
+================================================================
+Acesso 189° :
+Data: 29/10/2026
+Usuário depositou R$ 154 em sua conta bancária
+Saldo Atual: R$ 7490
+================================================================
+Acesso 190° :
+Data: 30/10/2026
+Usuário sacou R$ 533 de sua conta bancária
+Saldo Atual: R$ 6957
+================================================================
+Acesso 191° :
+Data: 31/10/2026
+Usuário depositou R$ 716 em sua conta bancária
+Saldo Atual: R$ 7673
+================================================================
+Acesso 192° :
+Data: 01/11/2026
+Usuário sacou R$ 127 de sua conta bancária
+Saldo Atual: R$ 7546
+================================================================
+Acesso 193° :
+Data: 02/11/2026
+Usuário depositou R$ 759 em sua conta bancária
+Saldo Atual: R$ 8305
+================================================================
+Acesso 194° :
+Data: 03/11/2026
+Usuário sacou R$ 488 de sua conta bancária
+Saldo Atual: R$ 7817
+================================================================
+Acesso 195° :
+Data: 04/11/2026
+Usuário depositou R$ 718 em sua conta bancária
+Saldo Atual: R$ 8535
+================================================================
+Acesso 196° :
+Data: 05/11/2026
+Usuário sacou R$ 299 de sua conta bancária
+Saldo Atual: R$ 8236
+================================================================
+Acesso 197° :
+Data: 06/11/2026
+Usuário depositou R$ 767 em sua conta bancária
+Saldo Atual: R$ 9003
+================================================================
+Acesso 198° :
+Data: 07/11/2026
+Usuário sacou R$ 237 de sua conta bancária
+Saldo Atual: R$ 8766
+================================================================
+Acesso 199° :
+Data: 08/11/2026
+Usuário depositou R$ 431 em sua conta bancária
+Saldo Atual: R$ 9197
+================================================================
+Acesso 200° :
+Data: 09/11/2026
+Usuário sacou R$ 178 de sua conta bancária
+Saldo Atual: R$ 9019
+================================================================
