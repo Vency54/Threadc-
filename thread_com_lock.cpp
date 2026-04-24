@@ -16,7 +16,7 @@ mutex BancoMutex;
 
 int qtde_interacoes = 10;
 int qtde_threads = 20;
-float saldo = 5000.00;
+float saldo = 10000.00;
 
 using chrono::system_clock;
 duration<int, ratio<60 * 60 * 24>> um_dia(1);
@@ -31,7 +31,7 @@ void Banco(int i)
 
     {
         unique_lock<mutex> BancoLock(BancoMutex);
-        
+
         for (int j = 0; j < qtde_interacoes; j++) {
             random_device rd;
             mt19937 gen(rd());
