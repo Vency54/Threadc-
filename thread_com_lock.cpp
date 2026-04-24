@@ -16,7 +16,7 @@ mutex BancoMutex;
 
 int qtde_interacoes = 10;
 int qtde_threads = 20;
-float saldo = 10000.00;
+int saldo = 10000;
 
 using chrono::system_clock;
 duration<int, ratio<60 * 60 * 24>> um_dia(1);
@@ -25,7 +25,7 @@ system_clock::time_point hoje = system_clock::now();
 
 int contador_exibicao = 1;
 
-void Banco(int i)
+void Banco()
 {
     this_thread::sleep_for(chrono::seconds(5));
 
@@ -38,7 +38,7 @@ void Banco(int i)
 
             uniform_int_distribution<int> dist(10000, 100000);
 
-            float acao = dist(gen) / 100.0f;
+            int acao = dist(gen) / 100.0f;
 
             time_t tt;
 
@@ -55,7 +55,7 @@ void Banco(int i)
 
                 MyFile << "Data: " << put_time(&data_local, "%d/%m/%Y") << endl;
 
-                if (i % 2 == 0)
+                if (j % 2 == 0)
                 {
                     MyFile << "Usuário depositou R$ " << acao << " em sua conta bancária" << endl;
                     saldo = saldo + acao;
@@ -66,7 +66,7 @@ void Banco(int i)
                     saldo = saldo - acao;
                 }
 
-                MyFile << "Saldo Atual: " << saldo << endl;
+                MyFile << "Saldo Atual: R$ " << saldo << endl;
                 MyFile << "================================================================" << endl;
 
                 MyFile.close();
@@ -101,7 +101,7 @@ int main()
 
     for (int i = 0; i < qtde_threads; i++)
     {
-        pool.emplace_back(Banco, i);
+        pool.emplace_back(Banco);
     }
 
     for (auto& t : pool)
